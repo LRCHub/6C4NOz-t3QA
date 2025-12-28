@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "寄る辺のSunny, Sunny",
+  "base_artist": "Morfonica",
+  "createdAt": "2025-12-28T09:46:22.207535Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "寄る辺のSunny, Sunny",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/01_寄る辺のSunny,_Sunny_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "寄る辺のSunny, Sunny -instrumental-",
+      "artist": "Morfonica",
+      "has_synced": true,
+      "path": "select/02_寄る辺のSunny,_Sunny_-instrumental-_Morfonica.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "寄る辺のSunny, Sunny -instrumental-",
+      "artist": "Morfonica (進藤あまね, 直田姫奈, 西尾夕香, mika, Ayasa)",
+      "has_synced": true,
+      "path": "select/03_寄る辺のSunny,_Sunny_-instrumental-_Morfonica_(進藤あまね,_直田姫奈,_西尾夕香,_mika,_Ayasa).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寄る辺のSunny, Sunny",
+      "artist": "Morfonica",
+      "has_synced": false,
+      "path": "select/pl_01_寄る辺のSunny,_Sunny_Morfonica.txt"
+    }
+  ]
+}
